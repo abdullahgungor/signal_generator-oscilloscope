@@ -1,0 +1,3 @@
+../Core/Src/adc.c:10:13:MX_DMA_Init	2
+../Core/Src/adc.c:31:6:MX_ADC1_Init	3
+../Core/Src/adc.c:56:6:startADC	1
